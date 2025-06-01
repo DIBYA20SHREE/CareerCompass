@@ -23,7 +23,7 @@ Built with **Kotlin**, **Jetpack Compose**, and integrates external AI APIs to g
 
 | Login Screen | Dashboard | Assessment | Suggested career path | Skill gap analysis | Profile | 
 |--------------|-----------|--------------|--------------------|----------------------|--------|
-| ![Login](1.png) | ![Dashboard](2.png) | (3.png) | (4.png) | (5.png)
+| ![Login](1.png) | ![Dashboard](2.png) | ![Assessment](3.png) | ![Suggested career path](4.png) | ![Skill gap analysis](5.png) | ![Profile](6.png)
 
 ---
 
