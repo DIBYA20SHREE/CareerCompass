@@ -23,7 +23,7 @@ Built with **Kotlin**, **Jetpack Compose**, and integrates external AI APIs to g
 
 | Login Screen | Dashboard |
 |--------------|-----------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](1.png) | ![Dashboard](2.png) |
 
 ---
 
