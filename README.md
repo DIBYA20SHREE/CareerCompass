@@ -1,4 +1,4 @@
-# 🎯 Career Compass - AI-Powered Career Guidance App
+#  Career Compass - AI-Powered Career Guidance App
 
 Career Compass is an AI-powered career guidance engine built for the Indian education system. It analyzes a user's **aptitude**, **skills**, **goals**, and **experience** to provide **personalized career recommendations** using ML & NLP models.
 
@@ -8,14 +8,14 @@ Built with **Kotlin**, **Jetpack Compose**, and integrates external AI APIs to g
 
 ## ✨ Features
 
-- 🔐 Email/Password & Google Sign-In (Firebase Auth)
-- 🧠 AI-based Aptitude Estimation via ML
-- 💬 NLP-based Goal & Interest Extraction
-- 🛠 Skill & Experience Mapping using Embeddings
-- 🎓 Career Suggestions Aligned with Indian Exams (JEE, NEET, UPSC, etc.)
-- 📉 Skill Gap Analysis + Learning Recommendations
-- 📊 Smart Quiz System (Auto-generated questions)
-- 💡 NEP-Aligned Suggestions (per New Education Policy 2020)
+-  Email/Password & Google Sign-In (Firebase Auth)
+-  AI-based Aptitude Estimation via ML
+-  NLP-based Goal & Interest Extraction
+-  Skill & Experience Mapping using Embeddings
+-  Career Suggestions Aligned with Indian Exams (JEE, NEET, UPSC, etc.)
+-  Skill Gap Analysis + Learning Recommendations
+-  Smart Quiz System (Auto-generated questions)
+-  NEP-Aligned Suggestions (per New Education Policy 2020)
 
 ---
 
@@ -38,9 +38,4 @@ Built with **Kotlin**, **Jetpack Compose**, and integrates external AI APIs to g
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/career-compass.git
-cd career-compass
